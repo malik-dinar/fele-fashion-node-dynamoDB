@@ -95,8 +95,4 @@ Clone this repository.
 Install the required dependencies.
 Run the Node.js application on your AWS EC2 instance.
 Access the API using the provided endpoints.
-## AWS EC2 Instance
 
-You can access the hosted backend service on your AWS EC2 instance at [Instance-IP-Address].
-
----
